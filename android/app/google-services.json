@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "972499366610",
+    "project_id": "simple-todo-firebase-9a518",
+    "storage_bucket": "simple-todo-firebase-9a518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972499366610:android:2f42a2103918a148b3330b",
+        "android_client_info": {
+          "package_name": "com.example.simple_todo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972499366610-toqpg2mt0n8uo6o0kjd88tbni0kqdld2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDyrkzHqRqs02qa1QdaC1zqOdSOvohx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972499366610-toqpg2mt0n8uo6o0kjd88tbni0kqdld2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972499366610-n2oeklv1ajbs2mvghnt6buh9t20apk7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simple.todo.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
