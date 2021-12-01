@@ -21,11 +21,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.orange,
       ),
-      home: Scaffold(
-        body: SafeArea(
-          child: const Intro(),
-        ),
-      ),
+      home: const Intro(),
+       
     );
   }
 }
